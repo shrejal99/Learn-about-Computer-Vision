@@ -1,3 +1,11 @@
+<P align="center">
+ <img src="https://user-images.githubusercontent.com/84700316/136813090-bcde20b4-9890-4aaa-8d2f-747954fa7be9.png" width=300px>
+</p>
+
+
+
+
+
 <h1 align="center"> Learn about Computer Vision </h1>
 
 ## What is Computer Vision?
